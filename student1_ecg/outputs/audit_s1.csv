@@ -1,0 +1,4 @@
+registro,fs,duracao_s,n_anotacoes,hr_ref_mediana,rr_max_s,nans
+s1_sit,500,508.1,613,72.3,0.96,0
+s1_walk,500,491.8,767,93.5,0.75,0
+s1_run,500,490.5,659,80.4,0.83,0
