@@ -1,0 +1,9 @@
+# Python 3.13.18 (Google Colab)
+wfdb==4.3.1
+neurokit2==0.3.0
+numpy==2.4.6
+pandas==2.2.3
+scipy==1.16.3
+scikit-learn==1.6.1
+matplotlib==3.10.0
+pyarrow==23.0.1
